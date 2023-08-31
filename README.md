@@ -1,0 +1,9 @@
+# Exploring Operating Systems and Low-Level Programming
+
+The course CS 351 provides a comprehensive exploration of programming techniques, mechanisms, and abstractions that underlie modern operating systems and their related libraries and software. The course delves into the practical aspects of utilizing operating system services efficiently and robustly, shedding light on how tasks are accomplished via these services. Additionally, the course offers insight into the inner workings of certain operating system abstractions, enabling a deeper understanding of topics such as low-level I/O and the intricacies of file operations.
+
+Throughout the course, students gain essential knowledge and skills, enabling them to comprehend the functioning of processes within modern operating systems and describe the key abstractions that are integral to running processes. Practical debugging and analysis at the machine level are emphasized, providing students with the ability to identify vulnerabilities like buffer overflows and mitigate their impact. The course also covers exceptional control flow in operating systems, shedding light on system calls and hardware interrupts. Students learn to harness system-level APIs for process and memory management, as well as grasp the complexities of memory hierarchies and caching, optimizing code for cache performance.
+
+By the end of the course, students are equipped to explain the concepts and responsibilities of dynamic memory allocation, including the implementation of explicit dynamic memory allocation. Moreover, they are familiar with different garbage collection algorithms, understanding their goals and tradeoffs. The course's recommended textbook, "Computer Systems: A Programmer's Perspective," along with supplementary materials, assists students in comprehending the intricacies of programming at the operating system level.
+
+### Skills: C · System Programming · Buffer Overflow
